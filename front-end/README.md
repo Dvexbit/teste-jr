@@ -3,6 +3,7 @@
 ## Objetivo
 
 Criar uma interface web responsiva para exibir e gerenciar tarefas, consumindo uma API (pode ser uma mock API ou integrada com um backend real).
+Layout por sua conta.
 
 ## Requisitos
 
