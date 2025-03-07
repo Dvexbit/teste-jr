@@ -13,6 +13,7 @@ Criar uma API RESTful para gerenciamento de tarefas (to-do list) utilizando Node
   - **id** (UUID ou ObjectId, dependendo do banco escolhido)
   - **título** (string, obrigatório)
   - **descrição** (string, opcional)
+  - **data da atividade** (você decide o tipo)
   - **status** ("pendente", "em andamento", "concluído")
   - **data de criação** (timestamp)
   - **data de atualização** (timestamp)
